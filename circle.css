@@ -1,0 +1,18 @@
+/** @license
+ *
+ * Circle: Simple rotational loader
+ * ---------------------------------------------------------
+ *
+ * Copyright (c) 2012, Chris Valleskey. All rights reserved.
+ * Code provided under the following license:
+ * http://creativecommons.org/licenses/by-nc-sa/3.0/
+ *
+ * V0.1
+ */
+
+canvas {
+	position: absolute;
+	z-index: 1;
+	top: 30px;
+	left: 30px;
+}

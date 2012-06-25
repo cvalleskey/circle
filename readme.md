@@ -1,4 +1,4 @@
-# Circle Progress
+# Circle
 
 A simple, lightweight solution for displaying progress bars in a circular fashion.
 
